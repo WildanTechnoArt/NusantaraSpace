@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Nusantara Space</string>
+    <string name="message_if_disconnect">Not Connected to the Internet</string>
 </resources>
